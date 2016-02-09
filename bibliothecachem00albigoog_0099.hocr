@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecachem00albigoog_0099.png"; bbox 0 0 2207 3857; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 415 106 1863 212">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 415 106 1863 212">
+     <span class='ocr_line' id='line_1_1' title="bbox 415 106 1863 212; baseline 0 -23"><span class='ocrx_word' id='word_1_1' title='bbox 415 109 902 190; x_wconf 52' lang='lat' dir='ltr'><strong>--Cnnivin‘u&#39;</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1008 106 1481 190; x_wconf 53' lang='lat' dir='ltr'><strong>Avium:</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1779 116 1863 212; x_wconf 71' lang='lat'><strong>”75</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1587 3371 1872 3451">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1587 3371 1872 3451">
+     <span class='ocr_line' id='line_1_2' title="bbox 1587 3371 1872 3451; baseline -0.025 -3"><span class='ocrx_word' id='word_1_4' title='bbox 1587 3371 1872 3451; x_wconf 54' lang='lat' dir='ltr'><strong>Extermx}</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
